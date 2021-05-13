@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167547509143",
+    "project_id": "carent-b8dd5",
+    "storage_bucket": "carent-b8dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167547509143:android:d39416a615c598f28f8cd2",
+        "android_client_info": {
+          "package_name": "com.cooldevs.carent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167547509143-b8r3tdj7j0epr9gllpk59ufrpves2jtq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApR301whqk6DpqRYpr_mtumMhwop2Lgcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167547509143-b8r3tdj7j0epr9gllpk59ufrpves2jtq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
