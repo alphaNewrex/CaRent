@@ -9,4 +9,7 @@
     https://www.figma.com/file/R1H5PsjxkRKMHna1X0F5ll/Carent?node-id=0%3A1<br>
     Please feel free to suggest and contact at : gujarathiharsh02@gmail.com
 
+    
+    To Install the app:
+   
 </P>
