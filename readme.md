@@ -2,7 +2,7 @@
 <P>
     CaRent is an easy to use car booking system which uses Google's firebase authentication system for Login.
     <br/>
-    Display the choice of Vehicle in a Recycler View has a custom Icon.<br/>
+    Display the choice of Vehicle in a Recycler View and has a custom Icon.<br/>
     The app also uses Google Map feature allowing you to choose your nearby pickup location (Currently only supported Pune City) - Feature still in progress<br/>
     Beautiful Illustrations make the app look attractive.<br/>
     UI created by Harsh.<br/>
