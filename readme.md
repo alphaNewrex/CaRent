@@ -11,5 +11,9 @@
 
     
     To Install the app:
+    1)Download the CaRent.apk file
+    2)Install the downloaded file on a supported android device
+    3)Follow the steps in the: https://drive.google.com/file/d/11SIWtSgtpJZ0FUH-5fWwrKEx3vGQqjjv/view?usp=sharing.
+    If you face any problems or encounter any bugs. Mail at gujarathiharsh02@gmail.com
    
 </P>
